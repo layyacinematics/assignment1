@@ -1,0 +1,1 @@
+This python script can add 5 and 10 together and say thank you
